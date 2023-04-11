@@ -1,0 +1,19 @@
+Frameorks:
+
+Angular - Para front aplicação web
+
+Trabalha em conjunto com HTML, CSS, JAVASCRIPT
+
+Laravel 
+
+Trabalha em conjunto PHP
+
+Vue - Especifico para Javascript
+
+Spring Booth - Frameork para back
+
+Trabalha em conjunto com Java
+
+Não foque sua carreira exclusivamente no frameork
+
+
